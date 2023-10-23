@@ -1,5 +1,4 @@
-![Patrick Noronha](https://github.com/patricknss/patricknss/assets/78814591/e6eb2cff-902b-4577-85f3-87facb6db4d1)
-<h3 align="center">
+![Patrick Noronha(1)](https://github.com/patricknss/patricknss/assets/78814591/be2ea233-2246-4efd-ba28-f5fb755ba474)<h3 align="center">
         <samp> Welcome! Make yourself at home.</samp>
 </h3>
 <p align="center"> 
