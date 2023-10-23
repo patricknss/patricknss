@@ -1,7 +1,6 @@
+![Patrick Noronha](https://github.com/patricknss/patricknss/assets/78814591/e6eb2cff-902b-4577-85f3-87facb6db4d1)
 <h3 align="center">
-        <samp>&gt; Welcome, I am
-                <b><a target="_blank" href="https://github.com/patricknss">Patrick Noronha</a></b>.
-        </samp>
+        <samp> Welcome! Make yourself at home.</samp>
 </h3>
 <p align="center"> 
   <samp>
