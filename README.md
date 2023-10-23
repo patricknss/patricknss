@@ -12,7 +12,7 @@
     Discord: skell.ss
     <br>
     <br>
-    Make yourself at home.
+    Continue...
    
   </samp>
 </p>
