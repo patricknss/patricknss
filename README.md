@@ -11,7 +11,7 @@
 <a href="mailto:patrickskell@proton.me?subject=GitHub Message&body=" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png" alt="patricknss" height="40" width="40" /></a>
 </p>
 
-<h3 align="center">Languages:</h3>
+<h3 align="center">Stacks:</h3>
 <p align="center">          
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=py,c,java,discord,bots,&perline=14"/>
