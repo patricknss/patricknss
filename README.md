@@ -6,7 +6,7 @@
 <h3 align="center">Contact me:</h3>
 <p align="center">
 <a href="https://instagram.com/patrickn.ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patricknss" height="30" width="40" /></a>
-<a href="mailto:patrickskell@proton.me?subject=GitHub Message&body=" target="blank"><img align="center" src="https://github.com/patricknss/patricknss/assets/78814591/215d95a4-d789-4056-b7ff-a7228d26cae4" alt="patricknss" height="32" width="30" /></a>
+<a href="mailto:patrickskell@proton.me?subject=GitHub Message&body=" target="blank"><img align="center" src="https://github.com/patricknss/patricknss/assets/78814591/215d95a4-d789-4056-b7ff-a7228d26cae4" alt="patricknss" height="34" width="32" /></a>
 </p>
 
 <h3 align="center">Languages:</h3>
