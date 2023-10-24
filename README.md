@@ -6,8 +6,8 @@
 
 <h3 align="center">   Contact me:</h3>
 <p align="center">
-<a href="https://instagram.com/patrickn.ss" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="patricknss" height="40" width="40" /></a>
-<a href="mailto:patrickskell@proton.me?subject=GitHub Message&body=" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Gmail_white.png" alt="patricknss" height="40" width="40" /></a>
+<a href="https://instagram.com/patrickn.ss" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="patricknss" height="40" width="40" /></a>
+<a href="mailto:patrickskell@proton.me?subject=GitHub Message&body=" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="patricknss" height="40" width="40" /></a>
 </p>
 
 <h3 align="center">   Stacks:</h3>
