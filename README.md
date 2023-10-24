@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="center">Stacks:</h3>
-<p align="center">          
+<p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=py,c,java,discord,bots,arduino&perline=14"/>
 </a>
