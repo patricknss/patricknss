@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> <a  target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a  target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> </a> </p>
 
 
 
