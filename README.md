@@ -30,7 +30,7 @@
 </div>
 
 - GPU: NVIDIA GeForce GTX 1650 4GB
-- CPU: Intel® Core™ i5-11300H (4,40 GHz)
+- CPU: Intel® Core™ i5-11300H (4.40 GHz)
 - RAM: 2x8 GB (Kingston FURY Impact DDR4)
 - SSD: 512 GB
 <!--setup end-->
