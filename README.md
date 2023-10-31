@@ -1,23 +1,36 @@
+<!--banner-->
 ![Patrick Noronha(1)](https://github.com/patricknss/patricknss/assets/78814591/be2ea233-2246-4efd-ba28-f5fb755ba474)
 
+<!--info-->
+- 🌎 I am from Brazil.
+- 📕 I am seeking for new learning experiences.
+- 🖥️ I'm graduating in Systems Analysis and Development
+- 📩 Contact me: patrickskell@proton.me
+<!--info/end-->
 
-<h1 align="center">   Hello, I'm Patrick.</h1>
-<h3 align="center">   May the Force be with you.</h3>
+<!--stacks-->
+<div id="tech-stacks">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tech Stacks:</h2></summary>
+  </ul>
+</div>
 
-<h3 align="center">   Contact me:</h3>
 <p align="center">
-<a href="https://instagram.com/patrickn.ss" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="patricknss" height="40" width="40" /></a>
-<a href="mailto:patrickskell@proton.me?subject=GitHub Message&body=" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="patricknss" height="40" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,nodejs,java,js,css,html,php,mysql,docker,discord,bots,arduino&perline=14"/>
+  </a>
 </p>
+<!--stack icons end-->
 
-<h3 align="center">   Stacks:</h3>
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,c,java,discord,bots,arduino&perline=14"/>
-</a>
-</p>
+<!--setup-->
+<div id="computer-specs">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Computer Specs:</h2></summary>
+  </ul>
+</div>
 
-
-
-
-
+- GPU: NVIDIA GeForce GTX 1650 4GB
+- CPU: Intel® Core™ i5-11300H (4,40 GHz)
+- RAM: 2x8 GB (Kingston FURY Impact DDR4)
+- SSD: 512 GB
+<!--setup end-->
