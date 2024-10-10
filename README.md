@@ -11,7 +11,7 @@
 <!--stacks-->
 <div id="tech-stacks">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tech Stacks:</h2></summary>
+    <summary><h2 style="display: inline-block">Stacks:</h2></summary>
   </ul>
 </div>
 
@@ -21,16 +21,3 @@
   </a>
 </p>
 <!--stack icons end-->
-
-<!--setup-->
-<div id="computer-specs">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Computer Specs:</h2></summary>
-  </ul>
-</div>
-
-- GPU: NVIDIA GeForce GTX 1650 4GB
-- CPU: Intel® Core™ i5-11300H (4.40 GHz)
-- RAM: 2x8 GB (Kingston FURY Impact DDR4)
-- SSD: 512 GB
-<!--setup end-->
