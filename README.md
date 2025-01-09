@@ -5,7 +5,6 @@
 - 🌎 I am from Brazil.
 - 📕 I am seeking for new learning experiences.
 - 🖥️ I'm graduating in Systems Analysis and Development
-- 📩 Contact me: patrickskell@proton.me
 <!--info/end-->
 
 <!--stacks-->
