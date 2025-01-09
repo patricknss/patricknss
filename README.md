@@ -10,7 +10,7 @@
 <!--stacks-->
 <div id="tech-stacks">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Stacks:</h2></summary>
+    <summary><h2 style="display: inline-block">i know some of this</h2></summary>
   </ul>
 </div>
 
