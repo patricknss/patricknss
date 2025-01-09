@@ -8,11 +8,7 @@
 <!--info/end-->
 
 <!--stacks-->
-<div id="tech-stacks">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">i know some of this</h2></summary>
-  </ul>
-</div>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
